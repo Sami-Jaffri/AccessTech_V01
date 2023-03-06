@@ -198,8 +198,159 @@
         transform: translateY(-8px) rotate(-45deg);
     }
 }
+/* About Us */
+.about {
+    width: 100%;
+    padding: 78px 0px;
+    background-color: #141414;
+}
 
+.about img {
+    height: auto;
+    width: 420px; 
+}
 
+.about-text {
+    width: 550px; 
+    text-align: center;
+}
+
+.main {
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.about-text h1 {
+    color: #fff;
+    font-size: 60px;
+    text-transform: capitalize;
+}
+
+.about-text h5 {
+    color: #fff;
+    font-size: 25px;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+}
+
+.about-text p {
+    color: #fff;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 14px;
+    margin-bottom: 45px;;
+}
+
+.about-text h2 {
+    margin-bottom: 100px; 
+}
+
+/* Our Goal */
+.goal {
+    width: 100%;
+    padding: -78px 0px;
+    background-color: #141414;
+}
+
+.goal img {
+    height: auto;
+    width: 500px; 
+}
+
+.goal-text {
+    width: 550px;
+    text-align: center;
+}
+
+.main2 {
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.goal-text h1 {
+    color: #fff;
+    font-size: 60px;
+    text-transform: capitalize;
+}
+
+.goal-text h5 {
+    color: #fff;
+    font-size: 25px;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+}
+
+.goal-text p {
+    color: #fff;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 14px;
+    
+    margin-bottom: 45px;;
+}
+
+.goal-text h2 {
+    margin-bottom: 95px; 
+}
+
+/* How you Can Help */
+.help {
+    width: 100%;
+    padding: -78px 0px;
+    background-color: #141414;
+}
+
+.help img {
+    height: auto;
+    width: 500px; 
+}
+
+.help-text {
+    width: 550px;
+    text-align: center;
+}
+
+.main3 {
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.help-text h1 {
+    color: #fff;
+    font-size: 60px;
+    text-transform: capitalize;
+    margin-top: 45px;
+}
+
+.help-text h5 {
+    color: #fff;
+    font-size: 25px;
+    text-transform: capitalize;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+}
+
+.help-text p {
+    color: #fff;
+    letter-spacing: 1px;
+    line-height: 28px;
+    font-size: 14px;
+    margin-bottom: 45px;;
+}
 
 
 
